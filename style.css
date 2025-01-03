@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navbar{
+    width: 100%;
+    height: 60px;
+    border: 1px solid black;
+}
+#slider{
+    width: 95%;
+    height: 80vh;
+    background-color: gray;
+}
+#clothing{
+    width: 95%;
+    height: 60vh;
+    background-color: rgb(95, 72, 72);
+}
+#brands{
+    width: 95%;
+    height: 92px;
+    background-color: rgb(121, 38, 38);
+}
+#inspo{
+    width: 95%;
+    height: 80vh;
+    background-color: gray;
+}
+#newsletter{
+    width: 95%;
+    height: 200px;
+    background-color: rgb(146, 46, 46);
+}
+#bottom{
+    width: 95%;
+    height: 40vh;
+    background-color: gray;
+}
